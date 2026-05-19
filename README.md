@@ -94,6 +94,6 @@ I am looking for opportunities in:
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your professional email here
-- Portfolio: Add later if you create one
+- LinkedIn: https://github.com/Bansari-yadav
+- Email: byadav1@hawk.illinoistech.edu
+
